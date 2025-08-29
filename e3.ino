@@ -41,7 +41,7 @@ extern "C" {
 static const char* WIFI_SSID = "Smart Global";
 static const char* WIFI_PASS = "";
 // Dooray 개인 API 토큰 (필수)
-static const char* DOORAY_TOKEN = "s701wolho5si:IvK8-thPTzGbr8DiA2bZ8Q";
+static const char* DOORAY_TOKEN = "!!!";
 // 민간 클라우드 기본
 static const char* DOORAY_BASE  = "https://api.dooray.com";
 
